@@ -178,10 +178,17 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 #EXTM3U billed-msg=" @ mbasongan "
 
+#EXTVLCOPT:http-user-agent=tpma/16.4 (Linux;Android 14) AndroidXMedia3/1.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Hbo  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
-
-
-
+#EXTVLCOPT:http-user-agent=tpma/16.4 (Linux;Android 14) AndroidXMedia3/1.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="116.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Colors Hindi 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 
 
